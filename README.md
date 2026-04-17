@@ -1,5 +1,5 @@
 # SQL-Project
-SQL data analysis project using PostgreSQL to analyze a music store database. Includes joins, aggregations, subqueries, and business insight queries.
+
 🎵 Music Store SQL Analysis
 
 📌 Project Overview
@@ -30,3 +30,4 @@ Top spending customers
 Most popular genres
 🎯 Objective
 To strengthen SQL skills and demonstrate data analysis capabilities for Data Analyst roles.
+
