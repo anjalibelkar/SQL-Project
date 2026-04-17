@@ -30,6 +30,7 @@ Tracks longer than average song length
 Highest revenue generating countries
 Top spending customers
 Most popular genres
+
 🎯 Objective
 To strengthen SQL skills and demonstrate data analysis capabilities for Data Analyst roles.
 
