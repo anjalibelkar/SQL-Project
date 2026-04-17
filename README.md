@@ -9,7 +9,9 @@ This project analyzes a music store database using PostgreSQL to extract busines
 🛠 Tools Used
 
 PostgreSQL
+
 pgAdmin 4
+
 GitHub
 
 📊 SQL Skills Demonstrated
